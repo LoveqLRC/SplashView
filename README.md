@@ -491,7 +491,7 @@ class SplashView(context: Context, attrs: AttributeSet) : View(context, attrs) {
 ![聚合效果](https://upload-images.jianshu.io/upload_images/2018603-76febc6a8945afc0.gif?imageMogr2/auto-orient/strip)
 
 # 第四步扩展
-```
+```kotlin
 package rc.loveq.splashview
 
 import android.animation.Animator
